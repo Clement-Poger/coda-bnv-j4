@@ -1,5 +1,5 @@
 {
-  "program_name": "Lire dans la mémoire",
+  "program_name": "Écrire le résultat d'une addition dans la mémoire",
   "instructions": [
     {
       "name": "set",
